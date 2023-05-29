@@ -1,7 +1,7 @@
 
 const usernameInput = document.getElementById("username");
 const passwordInput = document.getElementById("password");
-const rememberMeCheckbox = document.getElementById("remember-me");
+const rememberMeCheckbox = document.getElementById("checkbox");
 const submitButton = document.getElementById("submit");
 
 submitButton.addEventListener("click", () => {
